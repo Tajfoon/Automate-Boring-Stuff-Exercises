@@ -62,4 +62,17 @@ def workerList():
     del workers[0]
     print(workers)
 
+
+
 workerList()
+
+
+# spam = ['car', 'table', 'board', 'lamp']
+#
+# def to_text(name_list):
+#     result = ''
+#     for x in range(len(name_list)):
+#         result += ' ' + name_list[x]
+#     print(result)
+#
+# to_text(spam)
